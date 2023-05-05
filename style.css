@@ -1,0 +1,94 @@
+header{
+    width: 100%;
+    height: 120px;
+    background-color: white;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    border: 3px solid red;
+    position: sticky;
+    top: 2px;
+}
+
+.logo{
+    margin-top: 12px;
+   
+}
+.search{
+    margin-top: 30px;
+}
+
+.myaccount{
+    margin-top: 30px;
+   
+}
+
+.nav{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    background-color: red;
+   
+   
+  
+}
+.nav :hover{
+   
+    color: red;
+   
+    overflow: hidden;
+    transform: scale(1.1);
+}
+.page4{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    background-color: azure;
+}
+.col{
+    width: 190px;
+    height: 260px;
+    border: 2px solid red;
+    margin: 16px;
+
+}
+.page4 img :hover{
+    transform: scale(1.1);
+}
+.page5{
+    background-color: azure;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.footer{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   border: 1px solid black;
+   margin-top: 5px;
+   
+}
+.col1 :hover{
+    transform: scale(1.1);
+}
+.col2 :hover{
+    transform: scale(1.1);
+}
+.col3 :hover{
+    transform: scale(1.1);
+}
+.col4 :hover{
+    transform: scale(1.1);
+}
+.col5 :hover{
+    transform: scale(1.1);
+}
+.col6 :hover{
+    transform: scale(1.1);
+}
+.container :hover{
+    transform: scale(1.1);
+}
